@@ -1,0 +1,8 @@
+{
+  "name": "node-js-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/Udayudi/node-js-server.git",
+  "author": "Uday Kiran",
+  "license": "MIT"
+}
