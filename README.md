@@ -1,3 +1,3 @@
 # node-js-server
 
-## Run $node server.js
+### $ node server.js
